@@ -8,7 +8,7 @@
       "2016-03-20T02:24:26.517Z"
     ],
     "agent": "cli-generator",
-    "github_user": "githubsmilo",
+    "github_user": "jojoldu",
     "github_repository": "oh-my-github"
   },
   "activities": [
@@ -23,7 +23,7 @@
       "event_id": "3778995695",
       "type": "IssueCommentEvent",
       "created_at": "2016-03-18T04:52:59Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "sglantz/FantasyLink"
     },
     {
@@ -33,7 +33,7 @@
       "event_id": "3778982670",
       "type": "WatchEvent",
       "created_at": "2016-03-18T04:46:01Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "sglantz/FantasyLink"
     },
     {
@@ -51,8 +51,8 @@
       "event_id": "3778721475",
       "type": "PushEvent",
       "created_at": "2016-03-18T02:35:54Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -69,21 +69,21 @@
       "event_id": "3778588214",
       "type": "PushEvent",
       "created_at": "2016-03-18T01:35:24Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
         "forkee_id": 54161860,
         "forkee_name": "oh-my-github",
-        "forkee_full_name": "githubsmilo/oh-my-github",
-        "forkee_url": "https://github.com/githubsmilo/oh-my-github",
+        "forkee_full_name": "jojoldu/oh-my-github",
+        "forkee_url": "https://github.com/jojoldu/oh-my-github",
         "forkee_language": null
       },
       "event_id": "3778507726",
       "type": "ForkEvent",
       "created_at": "2016-03-18T01:00:46Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "oh-my-github/oh-my-github"
     },
     {
@@ -101,8 +101,8 @@
       "event_id": "3778460369",
       "type": "PushEvent",
       "created_at": "2016-03-18T00:40:59Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -119,8 +119,8 @@
       "event_id": "3778452409",
       "type": "PushEvent",
       "created_at": "2016-03-18T00:37:46Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -137,8 +137,8 @@
       "event_id": "3778424840",
       "type": "PushEvent",
       "created_at": "2016-03-18T00:26:35Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -155,8 +155,8 @@
       "event_id": "3778420298",
       "type": "PushEvent",
       "created_at": "2016-03-18T00:24:46Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -173,8 +173,8 @@
       "event_id": "3778413623",
       "type": "PushEvent",
       "created_at": "2016-03-18T00:22:12Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -191,8 +191,8 @@
       "event_id": "3778406908",
       "type": "PushEvent",
       "created_at": "2016-03-18T00:19:37Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -209,8 +209,8 @@
       "event_id": "3778403994",
       "type": "PushEvent",
       "created_at": "2016-03-18T00:18:24Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -223,8 +223,8 @@
       "event_id": "3778379742",
       "type": "CreateEvent",
       "created_at": "2016-03-18T00:09:10Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -237,8 +237,8 @@
       "event_id": "3778340639",
       "type": "CreateEvent",
       "created_at": "2016-03-17T23:54:49Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -251,8 +251,8 @@
       "event_id": "3778340586",
       "type": "CreateEvent",
       "created_at": "2016-03-17T23:54:49Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/my-github-profile"
+      "actor": "jojoldu",
+      "repo": "jojoldu/my-github-profile"
     },
     {
       "payload": {
@@ -261,7 +261,7 @@
       "event_id": "3775999849",
       "type": "WatchEvent",
       "created_at": "2016-03-17T15:22:05Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "oh-my-github/oh-my-github"
     },
     {
@@ -275,7 +275,7 @@
       "event_id": "3775998772",
       "type": "IssuesEvent",
       "created_at": "2016-03-17T15:21:53Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "oh-my-github/oh-my-github"
     },
     {
@@ -289,8 +289,8 @@
       "event_id": "3774225854",
       "type": "CreateEvent",
       "created_at": "2016-03-17T08:12:02Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/oh-my-github"
+      "actor": "jojoldu",
+      "repo": "jojoldu/oh-my-github"
     },
     {
       "payload": {
@@ -303,8 +303,8 @@
       "event_id": "3774018281",
       "type": "CreateEvent",
       "created_at": "2016-03-17T06:50:33Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/oh-my-github"
+      "actor": "jojoldu",
+      "repo": "jojoldu/oh-my-github"
     },
     {
       "payload": {
@@ -317,8 +317,8 @@
       "event_id": "3774018257",
       "type": "CreateEvent",
       "created_at": "2016-03-17T06:50:33Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/oh-my-github"
+      "actor": "jojoldu",
+      "repo": "jojoldu/oh-my-github"
     },
     {
       "payload": {
@@ -327,7 +327,7 @@
       "event_id": "3773859253",
       "type": "WatchEvent",
       "created_at": "2016-03-17T05:38:35Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "preshing/junction"
     },
     {
@@ -345,8 +345,8 @@
       "event_id": "3769046463",
       "type": "PushEvent",
       "created_at": "2016-03-16T09:00:40Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -363,8 +363,8 @@
       "event_id": "3768727231",
       "type": "PushEvent",
       "created_at": "2016-03-16T07:07:54Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -381,8 +381,8 @@
       "event_id": "3768666275",
       "type": "PushEvent",
       "created_at": "2016-03-16T06:40:49Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -399,8 +399,8 @@
       "event_id": "3768659469",
       "type": "PushEvent",
       "created_at": "2016-03-16T06:37:45Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -417,8 +417,8 @@
       "event_id": "3768637484",
       "type": "PushEvent",
       "created_at": "2016-03-16T06:27:47Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -435,8 +435,8 @@
       "event_id": "3768635242",
       "type": "PushEvent",
       "created_at": "2016-03-16T06:26:43Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -453,8 +453,8 @@
       "event_id": "3768554321",
       "type": "PushEvent",
       "created_at": "2016-03-16T05:49:09Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -471,8 +471,8 @@
       "event_id": "3768524861",
       "type": "PushEvent",
       "created_at": "2016-03-16T05:34:50Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -489,8 +489,8 @@
       "event_id": "3768346663",
       "type": "PushEvent",
       "created_at": "2016-03-16T04:02:38Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -508,8 +508,8 @@
       "event_id": "3768340234",
       "type": "PushEvent",
       "created_at": "2016-03-16T03:59:33Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -526,8 +526,8 @@
       "event_id": "3768211279",
       "type": "PushEvent",
       "created_at": "2016-03-16T02:59:55Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/TipsBoard"
+      "actor": "jojoldu",
+      "repo": "jojoldu/TipsBoard"
     },
     {
       "payload": {
@@ -544,8 +544,8 @@
       "event_id": "3767965888",
       "type": "PushEvent",
       "created_at": "2016-03-16T01:14:25Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -562,8 +562,8 @@
       "event_id": "3767949961",
       "type": "PushEvent",
       "created_at": "2016-03-16T01:08:18Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -580,8 +580,8 @@
       "event_id": "3767926702",
       "type": "PushEvent",
       "created_at": "2016-03-16T00:59:34Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -598,8 +598,8 @@
       "event_id": "3765298351",
       "type": "PushEvent",
       "created_at": "2016-03-15T15:14:48Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -616,8 +616,8 @@
       "event_id": "3765228647",
       "type": "PushEvent",
       "created_at": "2016-03-15T15:02:28Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -634,8 +634,8 @@
       "event_id": "3765167716",
       "type": "PushEvent",
       "created_at": "2016-03-15T14:51:49Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -652,8 +652,8 @@
       "event_id": "3765163082",
       "type": "PushEvent",
       "created_at": "2016-03-15T14:51:00Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -670,8 +670,8 @@
       "event_id": "3765151543",
       "type": "PushEvent",
       "created_at": "2016-03-15T14:48:56Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -688,8 +688,8 @@
       "event_id": "3764926668",
       "type": "PushEvent",
       "created_at": "2016-03-15T14:07:00Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -706,8 +706,8 @@
       "event_id": "3764915598",
       "type": "PushEvent",
       "created_at": "2016-03-15T14:04:43Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -724,8 +724,8 @@
       "event_id": "3764906355",
       "type": "PushEvent",
       "created_at": "2016-03-15T14:02:51Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -742,8 +742,8 @@
       "event_id": "3764892062",
       "type": "PushEvent",
       "created_at": "2016-03-15T13:59:59Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -760,8 +760,8 @@
       "event_id": "3764877943",
       "type": "PushEvent",
       "created_at": "2016-03-15T13:57:08Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -778,8 +778,8 @@
       "event_id": "3764872651",
       "type": "PushEvent",
       "created_at": "2016-03-15T13:56:06Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -796,8 +796,8 @@
       "event_id": "3763587269",
       "type": "PushEvent",
       "created_at": "2016-03-15T08:22:41Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -814,8 +814,8 @@
       "event_id": "3763582738",
       "type": "PushEvent",
       "created_at": "2016-03-15T08:21:09Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -832,8 +832,8 @@
       "event_id": "3763523521",
       "type": "PushEvent",
       "created_at": "2016-03-15T08:00:08Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -850,8 +850,8 @@
       "event_id": "3763394788",
       "type": "PushEvent",
       "created_at": "2016-03-15T07:08:47Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -868,8 +868,8 @@
       "event_id": "3763391020",
       "type": "PushEvent",
       "created_at": "2016-03-15T07:07:14Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -886,21 +886,21 @@
       "event_id": "3763374923",
       "type": "PushEvent",
       "created_at": "2016-03-15T07:00:22Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
         "forkee_id": 53921901,
         "forkee_name": "poole",
-        "forkee_full_name": "githubsmilo/poole",
-        "forkee_url": "https://github.com/githubsmilo/poole",
+        "forkee_full_name": "jojoldu/poole",
+        "forkee_url": "https://github.com/jojoldu/poole",
         "forkee_language": null
       },
       "event_id": "3763363330",
       "type": "ForkEvent",
       "created_at": "2016-03-15T06:55:16Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "poole/poole"
     },
     {
@@ -918,8 +918,8 @@
       "event_id": "3763348063",
       "type": "PushEvent",
       "created_at": "2016-03-15T06:48:51Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -936,8 +936,8 @@
       "event_id": "3763331096",
       "type": "PushEvent",
       "created_at": "2016-03-15T06:41:20Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -954,8 +954,8 @@
       "event_id": "3763328256",
       "type": "PushEvent",
       "created_at": "2016-03-15T06:40:05Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -972,8 +972,8 @@
       "event_id": "3738280001",
       "type": "PushEvent",
       "created_at": "2016-03-08T22:18:33Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -987,8 +987,8 @@
       "event_id": "3729427559",
       "type": "PushEvent",
       "created_at": "2016-03-07T08:16:52Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1005,8 +1005,8 @@
       "event_id": "3729421891",
       "type": "PushEvent",
       "created_at": "2016-03-07T08:14:37Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1023,8 +1023,8 @@
       "event_id": "3729360690",
       "type": "PushEvent",
       "created_at": "2016-03-07T07:49:49Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1041,8 +1041,8 @@
       "event_id": "3729279822",
       "type": "PushEvent",
       "created_at": "2016-03-07T07:14:11Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1059,8 +1059,8 @@
       "event_id": "3729265376",
       "type": "PushEvent",
       "created_at": "2016-03-07T07:07:16Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1077,8 +1077,8 @@
       "event_id": "3729262476",
       "type": "PushEvent",
       "created_at": "2016-03-07T07:05:58Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1095,8 +1095,8 @@
       "event_id": "3729259042",
       "type": "PushEvent",
       "created_at": "2016-03-07T07:04:18Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1113,8 +1113,8 @@
       "event_id": "3729254348",
       "type": "PushEvent",
       "created_at": "2016-03-07T07:02:06Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1131,8 +1131,8 @@
       "event_id": "3729245308",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:58:21Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1149,8 +1149,8 @@
       "event_id": "3729240432",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:56:12Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1167,8 +1167,8 @@
       "event_id": "3729213562",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:42:12Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1185,8 +1185,8 @@
       "event_id": "3729210486",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:40:44Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1203,8 +1203,8 @@
       "event_id": "3729208636",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:39:50Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1221,8 +1221,8 @@
       "event_id": "3729205366",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:38:23Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1239,8 +1239,8 @@
       "event_id": "3729204642",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:38:03Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1257,8 +1257,8 @@
       "event_id": "3729203924",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:37:44Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1275,8 +1275,8 @@
       "event_id": "3729202442",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:36:59Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1293,8 +1293,8 @@
       "event_id": "3729197349",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:34:32Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1311,8 +1311,8 @@
       "event_id": "3729196204",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:33:58Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1329,8 +1329,8 @@
       "event_id": "3729193088",
       "type": "PushEvent",
       "created_at": "2016-03-07T06:32:26Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1347,8 +1347,8 @@
       "event_id": "3729020680",
       "type": "PushEvent",
       "created_at": "2016-03-07T04:58:15Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1365,21 +1365,21 @@
       "event_id": "3729017626",
       "type": "PushEvent",
       "created_at": "2016-03-07T04:56:27Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
         "forkee_id": 53296871,
         "forkee_name": "harmony",
-        "forkee_full_name": "githubsmilo/harmony",
-        "forkee_url": "https://github.com/githubsmilo/harmony",
+        "forkee_full_name": "jojoldu/harmony",
+        "forkee_url": "https://github.com/jojoldu/harmony",
         "forkee_language": null
       },
       "event_id": "3729015524",
       "type": "ForkEvent",
       "created_at": "2016-03-07T04:55:13Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "gayanvirajith/harmony"
     },
     {
@@ -1397,8 +1397,8 @@
       "event_id": "3729003974",
       "type": "PushEvent",
       "created_at": "2016-03-07T04:48:33Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1415,8 +1415,8 @@
       "event_id": "3728999326",
       "type": "PushEvent",
       "created_at": "2016-03-07T04:45:46Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1433,8 +1433,8 @@
       "event_id": "3728939980",
       "type": "PushEvent",
       "created_at": "2016-03-07T04:10:27Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1451,8 +1451,8 @@
       "event_id": "3728936183",
       "type": "PushEvent",
       "created_at": "2016-03-07T04:08:09Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1469,8 +1469,8 @@
       "event_id": "3728926336",
       "type": "PushEvent",
       "created_at": "2016-03-07T04:02:11Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1487,8 +1487,8 @@
       "event_id": "3728924325",
       "type": "PushEvent",
       "created_at": "2016-03-07T04:01:04Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1505,8 +1505,8 @@
       "event_id": "3728922320",
       "type": "PushEvent",
       "created_at": "2016-03-07T03:59:59Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1523,21 +1523,21 @@
       "event_id": "3728839067",
       "type": "PushEvent",
       "created_at": "2016-03-07T03:13:35Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
         "forkee_id": 53292012,
         "forkee_name": "daryl",
-        "forkee_full_name": "githubsmilo/daryl",
-        "forkee_url": "https://github.com/githubsmilo/daryl",
+        "forkee_full_name": "jojoldu/daryl",
+        "forkee_url": "https://github.com/jojoldu/daryl",
         "forkee_language": null
       },
       "event_id": "3728833379",
       "type": "ForkEvent",
       "created_at": "2016-03-07T03:10:50Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "andrewcodes/daryl"
     },
     {
@@ -1555,8 +1555,8 @@
       "event_id": "3728817724",
       "type": "PushEvent",
       "created_at": "2016-03-07T03:02:36Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1573,8 +1573,8 @@
       "event_id": "3728814590",
       "type": "PushEvent",
       "created_at": "2016-03-07T03:00:53Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1610,8 +1610,8 @@
       "event_id": "3728803412",
       "type": "PushEvent",
       "created_at": "2016-03-07T02:54:56Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1624,8 +1624,8 @@
       "event_id": "3728802232",
       "type": "CreateEvent",
       "created_at": "2016-03-07T02:54:15Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1638,21 +1638,21 @@
       "event_id": "3728802228",
       "type": "CreateEvent",
       "created_at": "2016-03-07T02:54:15Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
         "forkee_id": 53145204,
         "forkee_name": "phantom",
-        "forkee_full_name": "githubsmilo/phantom",
-        "forkee_url": "https://github.com/githubsmilo/phantom",
+        "forkee_full_name": "jojoldu/phantom",
+        "forkee_url": "https://github.com/jojoldu/phantom",
         "forkee_language": null
       },
       "event_id": "3723193926",
       "type": "ForkEvent",
       "created_at": "2016-03-04T15:33:06Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "jamigibbs/phantom"
     },
     {
@@ -1666,21 +1666,21 @@
       "event_id": "3721787994",
       "type": "CreateEvent",
       "created_at": "2016-03-04T09:11:38Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/tistojek"
+      "actor": "jojoldu",
+      "repo": "jojoldu/tistojek"
     },
     {
       "payload": {
         "forkee_id": 53114317,
         "forkee_name": "tistojek",
-        "forkee_full_name": "githubsmilo/tistojek",
-        "forkee_url": "https://github.com/githubsmilo/tistojek",
+        "forkee_full_name": "jojoldu/tistojek",
+        "forkee_url": "https://github.com/jojoldu/tistojek",
         "forkee_language": null
       },
       "event_id": "3721421101",
       "type": "ForkEvent",
       "created_at": "2016-03-04T06:54:06Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "sio4/tistojek"
     },
     {
@@ -1698,8 +1698,8 @@
       "event_id": "3721312070",
       "type": "PushEvent",
       "created_at": "2016-03-04T06:06:33Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1716,8 +1716,8 @@
       "event_id": "3721306224",
       "type": "PushEvent",
       "created_at": "2016-03-04T06:03:34Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1734,8 +1734,8 @@
       "event_id": "3721303514",
       "type": "PushEvent",
       "created_at": "2016-03-04T06:02:19Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1752,8 +1752,8 @@
       "event_id": "3721300675",
       "type": "PushEvent",
       "created_at": "2016-03-04T06:00:55Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1770,8 +1770,8 @@
       "event_id": "3721299327",
       "type": "PushEvent",
       "created_at": "2016-03-04T06:00:18Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1788,8 +1788,8 @@
       "event_id": "3721269414",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:45:32Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1806,8 +1806,8 @@
       "event_id": "3721265865",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:43:40Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1824,8 +1824,8 @@
       "event_id": "3721264498",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:42:56Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1842,8 +1842,8 @@
       "event_id": "3721263723",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:42:31Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1860,8 +1860,8 @@
       "event_id": "3721263388",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:42:20Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1878,8 +1878,8 @@
       "event_id": "3721261195",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:41:19Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1896,8 +1896,8 @@
       "event_id": "3721259706",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:40:37Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1914,8 +1914,8 @@
       "event_id": "3721255968",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:38:53Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1932,8 +1932,8 @@
       "event_id": "3721252284",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:37:01Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1950,8 +1950,8 @@
       "event_id": "3721246071",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:33:45Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1968,8 +1968,8 @@
       "event_id": "3721240736",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:30:59Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -1986,8 +1986,8 @@
       "event_id": "3721239291",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:30:14Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -2004,8 +2004,8 @@
       "event_id": "3721234715",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:27:47Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -2022,8 +2022,8 @@
       "event_id": "3721232975",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:26:48Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -2040,8 +2040,8 @@
       "event_id": "3721214887",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:16:35Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -2058,8 +2058,8 @@
       "event_id": "3721209959",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:13:53Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -2076,8 +2076,8 @@
       "event_id": "3721204180",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:10:31Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/githubsmilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/jojoldu.github.io"
     },
     {
       "payload": {
@@ -2094,21 +2094,21 @@
       "event_id": "3721203042",
       "type": "PushEvent",
       "created_at": "2016-03-04T05:09:53Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/smilo.github.io"
+      "actor": "jojoldu",
+      "repo": "jojoldu/smilo.github.io"
     },
     {
       "payload": {
         "forkee_id": 53109015,
         "forkee_name": "jekyll-now",
-        "forkee_full_name": "githubsmilo/jekyll-now",
-        "forkee_url": "https://github.com/githubsmilo/jekyll-now",
+        "forkee_full_name": "jojoldu/jekyll-now",
+        "forkee_url": "https://github.com/jojoldu/jekyll-now",
         "forkee_language": null
       },
       "event_id": "3721198664",
       "type": "ForkEvent",
       "created_at": "2016-03-04T05:07:26Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "barryclark/jekyll-now"
     },
     {
@@ -2118,7 +2118,7 @@
       "event_id": "3631506455",
       "type": "WatchEvent",
       "created_at": "2016-02-11T01:57:00Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "square/retrofit"
     },
     {
@@ -2128,7 +2128,7 @@
       "event_id": "3594384453",
       "type": "WatchEvent",
       "created_at": "2016-02-01T23:26:29Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "preshing/junction"
     },
     {
@@ -2138,7 +2138,7 @@
       "event_id": "3512877890",
       "type": "WatchEvent",
       "created_at": "2016-01-11T06:16:34Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "jp9000/OBS"
     },
     {
@@ -2148,8 +2148,8 @@
       "event_id": "3512877748",
       "type": "WatchEvent",
       "created_at": "2016-01-11T06:16:29Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/OBS"
+      "actor": "jojoldu",
+      "repo": "jojoldu/OBS"
     },
     {
       "payload": {
@@ -2158,7 +2158,7 @@
       "event_id": "3492809115",
       "type": "WatchEvent",
       "created_at": "2016-01-04T22:02:53Z",
-      "actor": "githubsmilo",
+      "actor": "jojoldu",
       "repo": "MaximAbramchuck/awesome-interviews"
     },
     {
@@ -2176,15 +2176,15 @@
       "event_id": "3483016917",
       "type": "PushEvent",
       "created_at": "2015-12-30T07:14:57Z",
-      "actor": "githubsmilo",
-      "repo": "githubsmilo/ScriptBox"
+      "actor": "jojoldu",
+      "repo": "jojoldu/ScriptBox"
     }
   ],
   "repositories": [
     {
-      "name": "githubsmilo.github.io",
+      "name": "jojoldu.github.io",
       "description": "GitHub page repo for",
-      "full_name": "githubsmilo/githubsmilo.github.io",
+      "full_name": "jojoldu/jojoldu.github.io",
       "fork": true,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -2195,12 +2195,12 @@
       "created_at": "2016-03-15T06:55:16Z",
       "updated_at": "2016-03-15T07:09:11Z",
       "pushed_at": "2016-03-18T02:35:53Z",
-      "url": "https://github.com/githubsmilo/githubsmilo.github.io"
+      "url": "https://github.com/jojoldu/jojoldu.github.io"
     },
     {
       "name": "IamBullpener",
       "description": "[Android] This app widget provides quick navigation experience of MLB Park(http://mlbpark.donga.com).",
-      "full_name": "githubsmilo/IamBullpener",
+      "full_name": "jojoldu/IamBullpener",
       "fork": false,
       "forks_count": 1,
       "stargazers_count": 0,
@@ -2211,12 +2211,12 @@
       "created_at": "2013-08-05T04:49:54Z",
       "updated_at": "2014-03-15T12:37:38Z",
       "pushed_at": "2014-03-15T12:37:38Z",
-      "url": "https://github.com/githubsmilo/IamBullpener"
+      "url": "https://github.com/jojoldu/IamBullpener"
     },
     {
       "name": "my-github-profile",
       "description": "",
-      "full_name": "githubsmilo/my-github-profile",
+      "full_name": "jojoldu/my-github-profile",
       "fork": false,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -2227,12 +2227,12 @@
       "created_at": "2016-03-17T23:54:48Z",
       "updated_at": "2016-03-17T23:54:48Z",
       "pushed_at": "2016-03-18T00:40:59Z",
-      "url": "https://github.com/githubsmilo/my-github-profile"
+      "url": "https://github.com/jojoldu/my-github-profile"
     },
     {
       "name": "oh-my-github",
       "description": "Create your Github Profile in 5 minute",
-      "full_name": "githubsmilo/oh-my-github",
+      "full_name": "jojoldu/oh-my-github",
       "fork": true,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -2243,12 +2243,12 @@
       "created_at": "2016-03-18T01:00:46Z",
       "updated_at": "2016-03-18T01:00:47Z",
       "pushed_at": "2016-03-08T08:40:09Z",
-      "url": "https://github.com/githubsmilo/oh-my-github"
+      "url": "https://github.com/jojoldu/oh-my-github"
     },
     {
       "name": "ScriptBox",
       "description": "just fun, but useful for me!",
-      "full_name": "githubsmilo/ScriptBox",
+      "full_name": "jojoldu/ScriptBox",
       "fork": false,
       "forks_count": 1,
       "stargazers_count": 0,
@@ -2259,12 +2259,12 @@
       "created_at": "2014-01-21T02:05:13Z",
       "updated_at": "2015-12-30T07:14:57Z",
       "pushed_at": "2015-12-30T07:14:57Z",
-      "url": "https://github.com/githubsmilo/ScriptBox"
+      "url": "https://github.com/jojoldu/ScriptBox"
     },
     {
       "name": "TipsBoard",
       "description": "just fun tips!",
-      "full_name": "githubsmilo/TipsBoard",
+      "full_name": "jojoldu/TipsBoard",
       "fork": false,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -2275,14 +2275,14 @@
       "created_at": "2014-01-21T02:40:50Z",
       "updated_at": "2016-03-16T02:59:54Z",
       "pushed_at": "2016-03-16T02:59:53Z",
-      "url": "https://github.com/githubsmilo/TipsBoard"
+      "url": "https://github.com/jojoldu/TipsBoard"
     }
   ],
   "languages": [
     {
-      "owner": "githubsmilo",
-      "repo_name": "githubsmilo.github.io",
-      "url": "http://github.com/githubsmilo/githubsmilo.github.io",
+      "owner": "jojoldu",
+      "repo_name": "jojoldu.github.io",
+      "url": "http://github.com/jojoldu/jojoldu.github.io",
       "languages": [
         {
           "name": "CSS",
@@ -2295,9 +2295,9 @@
       ]
     },
     {
-      "owner": "githubsmilo",
+      "owner": "jojoldu",
       "repo_name": "IamBullpener",
-      "url": "http://github.com/githubsmilo/IamBullpener",
+      "url": "http://github.com/jojoldu/IamBullpener",
       "languages": [
         {
           "name": "Java",
@@ -2306,14 +2306,14 @@
       ]
     },
     {
-      "owner": "githubsmilo",
+      "owner": "jojoldu",
       "repo_name": "my-github-profile",
-      "url": "http://github.com/githubsmilo/my-github-profile"
+      "url": "http://github.com/jojoldu/my-github-profile"
     },
     {
-      "owner": "githubsmilo",
+      "owner": "jojoldu",
       "repo_name": "oh-my-github",
-      "url": "http://github.com/githubsmilo/oh-my-github",
+      "url": "http://github.com/jojoldu/oh-my-github",
       "languages": [
         {
           "name": "TypeScript",
@@ -2330,9 +2330,9 @@
       ]
     },
     {
-      "owner": "githubsmilo",
+      "owner": "jojoldu",
       "repo_name": "ScriptBox",
-      "url": "http://github.com/githubsmilo/ScriptBox",
+      "url": "http://github.com/jojoldu/ScriptBox",
       "languages": [
         {
           "name": "Python",
@@ -2345,13 +2345,13 @@
       ]
     },
     {
-      "owner": "githubsmilo",
+      "owner": "jojoldu",
       "repo_name": "TipsBoard",
-      "url": "http://github.com/githubsmilo/TipsBoard"
+      "url": "http://github.com/jojoldu/TipsBoard"
     }
   ],
   "user": {
-    "login": "githubsmilo",
+    "login": "jojoldu",
     "type": "User",
     "name": "김성준",
     "avatar_url": "https://avatars.githubusercontent.com/u/3915543?v=3",
@@ -2366,6 +2366,6 @@
     "public_gists": 0,
     "created_at": "2013-03-20T00:41:01Z",
     "updated_at": "2016-03-18T09:02:09Z",
-    "url": "https://github.com/githubsmilo"
+    "url": "https://github.com/jojoldu"
   }
 }
